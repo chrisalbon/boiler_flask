@@ -6,7 +6,6 @@ A boilerplate Flask app for rapid prototyping of AI models.
 
 ```
 export FLASK_APP=main.py
-export FLASK_ENV=development
-
+export FLASK_DEBUG=1
 flask run
 ```
